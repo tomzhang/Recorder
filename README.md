@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/HankXV/Recorder.svg?branch=master)](https://travis-ci.org/HankXV/Recorder)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8558598883684247a0e568b7ad30bf4d)](https://www.codacy.com/app/104381832/Recorder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HankXV/Recorder&amp;utm_campaign=Badge_Grade)
 # 什么是Recorder？
-move to https://gitee.com/HankXV/Recorder
+move to https://gitee.com/HankXV/Recorder<br>
 ![](/recorder-thumb.png)
 ## 环境要求
 Jdk8 or above<br>
